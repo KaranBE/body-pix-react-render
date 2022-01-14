@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chitpaingsoe/body-pix-react-render.git"
+    "url": "git+https://github.com/KaranBE/body-pix-react-render.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
